@@ -10,7 +10,7 @@ Ref: https://github.com/prowler-cloud/prowler
 
 ## リポジトリのファイル構成
 
-Makefile: リポジトリをクローン後のコマンド。
+Makefile: リポジトリをクローン後のコマンド。  
 config: クラウドサービスへ接続情報の設定ファイル。コンテナ内にコピーして使う。
 
 ## 作業手順
